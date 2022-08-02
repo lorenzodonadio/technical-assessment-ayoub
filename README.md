@@ -12,7 +12,7 @@ First lets get this repo working in your localhost so you can perform the tasks.
 
 ```bash
 # clone this repo in your directory of choice,
-git clone https://github.com/lorenzodonadio/technical-assessment.git
+git clone https://github.com/lorenzodonadio/technical-assessment-ayoub.git
 # navigate to the repo folder
 cd technical-assessment
 #open vs code here

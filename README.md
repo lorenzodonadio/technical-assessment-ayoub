@@ -6,9 +6,10 @@ Have fun and be creative
 
 ### Setup
 
-First lets get this repo working in your localhost so you can perform the tasks.
+First lets get this repo working in your localhost/ or stacklitz if you prefer so you can perform the tasks.
 
-**We strongly advice to use VS code and have git bash/configured**
+**We strongly advice to use VS code and have git bash/configured if you want to run localy**
+**Otherwise complete it on stackblitz**
 
 ```bash
 # clone this repo in your directory of choice,

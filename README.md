@@ -5,8 +5,14 @@ This assessment was created to be completed in 1 hour, we dont expect all the ta
 Have fun and be creative
 
 ### Setup
-
 First lets get this repo working in your localhost/ or stacklitz if you prefer so you can perform the tasks.
+
+**Run the assessment in the cloud**
+
+Stackblitz link: https://stackblitz.com/edit/sveltejs-kit-template-default-dymt5m?file=README.md
+
+**Run the assessment locally**
+
 
 **We strongly advice to use VS code and have git bash/configured if you want to run localy**
 **Otherwise complete it on stackblitz**

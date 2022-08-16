@@ -16,4 +16,12 @@ here is one of the items:
 
 export interface Person {
 	id: number;
+	first_name: string;
+	last_name: string;
+	email: string;
+	ip_address: string;
+	avatar: string | null;
+	created_at: string;
+	country: string | null;
+
 }
